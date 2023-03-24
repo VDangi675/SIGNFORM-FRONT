@@ -1,0 +1,39 @@
+
+
+.Signin{
+    width: 400px;
+    height: 250px;
+    margin: 4% auto;
+    margin-left: 30%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px gray;
+    background-color: salmon;
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+}
+#email , #pwd{
+    margin: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: none;
+}
+.btn{
+    width: 90%;
+    height: 50px;
+}
+#button{
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    font-size: larger;
+    color: white;
+    background-color: lightseagreen;
+    cursor: alias;
+}
+
